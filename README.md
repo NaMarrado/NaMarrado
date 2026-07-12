@@ -33,6 +33,18 @@
 <!-- PROJECTS "ICONS" -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
+<!-- FEATURED PROJECT: TON -->
+<td colspan="3" align="center" valign="top">
+<a href="https://github.com/NaMarrado/TON-Music-Player">
+<img src="https://raw.githubusercontent.com/NaMarrado/TON-Music-Player/main/public/TONlogo.png" width="100" height="100" style="object-fit: cover; border-radius: 15px;" alt="TON" />
+</a>
+<br />
+<a href="https://github.com/NaMarrado/TON-Music-Player">
+<img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=200&height=50&lines=TON&repeat=false" alt="TON" />
+</a>
+</td>
+</tr>
+<tr>
 <!-- PROJECT 1: MultiSocials -->
 <td width="33%" align="center" valign="top">
 <a href="https://github.com/NaMarrado/MultiSocials">
