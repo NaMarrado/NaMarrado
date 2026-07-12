@@ -41,7 +41,7 @@
 </a>
 <br />
 <a href="https://github.com/NaMarrado/TON-Music-Player">
-<img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=200&height=50&lines=TON&repeat=false" align="top" alt="TON" />
+<img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=200&height=32&lines=TON&repeat=false" align="top" alt="TON" />
 </a>
 </td>
 </tr>
@@ -55,7 +55,7 @@
 </a>
 <br />
 <a href="https://github.com/NaMarrado/MultiSocials">
-<img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=200&height=50&lines=MultiSocials&repeat=false" align="top" alt="MultiSocials" />
+<img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=200&height=32&lines=MultiSocials&repeat=false" align="top" alt="MultiSocials" />
 </a>
 </td>
 
@@ -66,7 +66,7 @@
 </a>
 <br />
 <a href="https://github.com/NaMarrado/GitHub-Quick-Account-Switcher">
-<img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=200&height=50&lines=GQAS&repeat=false" align="top" alt="GQAS" />
+<img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=200&height=32&lines=GQAS&repeat=false" align="top" alt="GQAS" />
 </a>
 </td>
 
@@ -77,7 +77,7 @@
 </a>
 <br />
 <a href="https://github.com/NaMarrado/Kriss">
-<img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=200&height=50&lines=Kriss&repeat=false" align="top" alt="Kriss" />
+<img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=200&height=32&lines=Kriss&repeat=false" align="top" alt="Kriss" />
 </a>
 </td>
 </tr>
