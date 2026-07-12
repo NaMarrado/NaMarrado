@@ -32,52 +32,56 @@
 
 <!-- PROJECTS "ICONS" -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody>
 <tr>
 <!-- FEATURED PROJECT: TON -->
 <td colspan="3" align="center" valign="top">
 <a href="https://github.com/NaMarrado/TON-Music-Player">
-<img src="https://raw.githubusercontent.com/NaMarrado/TON-Music-Player/main/public/TONlogo.png" width="100" height="100" style="object-fit: cover; border-radius: 15px;" alt="TON" />
+<img src="./assets/ton.png" width="100" height="100" align="top" alt="TON" />
 </a>
 <br />
 <a href="https://github.com/NaMarrado/TON-Music-Player">
-<img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=200&height=50&lines=TON&repeat=false" alt="TON" />
+<img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=200&height=50&lines=TON&repeat=false" align="top" alt="TON" />
 </a>
 </td>
 </tr>
+</tbody>
+<tbody>
 <tr>
 <!-- PROJECT 1: MultiSocials -->
 <td width="33%" align="center" valign="top">
 <a href="https://github.com/NaMarrado/MultiSocials">
-<img src="./assets/1.png" width="100" height="100" style="object-fit: cover; border-radius: 15px;" alt="MultiSocials" />
+<img src="./assets/1.png" width="100" height="100" align="top" alt="MultiSocials" />
 </a>
 <br />
 <a href="https://github.com/NaMarrado/MultiSocials">
-<img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=200&height=50&lines=MultiSocials&repeat=false" alt="MultiSocials" />
+<img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=200&height=50&lines=MultiSocials&repeat=false" align="top" alt="MultiSocials" />
 </a>
 </td>
 
 <!-- PROJECT 2: GitHub-Quick-Account-Switcher -->
 <td width="33%" align="center" valign="top">
 <a href="https://github.com/NaMarrado/GitHub-Quick-Account-Switcher">
-<img src="./assets/2.gif" width="100" height="100" style="object-fit: cover; border-radius: 15px;" alt="GQAS" />
+<img src="./assets/2.gif" width="100" height="100" align="top" alt="GQAS" />
 </a>
 <br />
 <a href="https://github.com/NaMarrado/GitHub-Quick-Account-Switcher">
-<img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=200&height=50&lines=GQAS&repeat=false" alt="GQAS" />
+<img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=200&height=50&lines=GQAS&repeat=false" align="top" alt="GQAS" />
 </a>
 </td>
 
 <!-- PROJECT 3: Kriss -->
 <td width="33%" align="center" valign="top">
 <a href="https://github.com/NaMarrado/Kriss">
-<img src="./assets/3.png" width="100" height="100" style="object-fit: cover; border-radius: 15px;" alt="Kriss" />
+<img src="./assets/3.png" width="100" height="100" align="top" alt="Kriss" />
 </a>
 <br />
 <a href="https://github.com/NaMarrado/Kriss">
-<img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=200&height=50&lines=Kriss&repeat=false" alt="Kriss" />
+<img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=200&height=50&lines=Kriss&repeat=false" align="top" alt="Kriss" />
 </a>
 </td>
 </tr>
+</tbody>
 </table>
 
 <br />
