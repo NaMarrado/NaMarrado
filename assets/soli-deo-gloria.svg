@@ -10,25 +10,20 @@
     <path id="g7" d="M1145 1457Q1205 1373 1281.0 1303.5Q1357 1234 1441 1171Q1449 1167 1453 1163Q1463 1144 1447 1133L1207 966Q1176 941 1216 937Q1357 932 1441.0 779.0Q1525 626 1517 505Q1501 289 1311.5 132.0Q1122 -25 870 -38Q546 -56 308.0 160.5Q70 377 61 689Q53 1023 225.5 1244.0Q398 1465 624 1465Q803 1465 875 1311Q883 1294 900 1305L1115 1463Q1132 1474 1145 1457ZM992 800Q965 799 933 792Q910 788 904.0 803.5Q898 819 918 831L1206 1031Q1223 1043 1207 1057Q1055 1174 962 1290Q953 1302 940 1293L826 1210Q718 1130 725.5 1032.0Q733 934 862 794Q1078 556 995.5 433.0Q913 310 727 211Q704 200 693.5 214.5Q683 229 702 246Q746 288 796.0 346.0Q846 404 667 623Q540 778 514.0 871.5Q488 965 523.5 1027.5Q559 1090 637.0 1136.0Q715 1182 797 1242L836 1271Q846 1278 842 1290Q798 1420 638 1417Q495 1413 404.5 1248.5Q314 1084 320 874Q332 480 502.0 255.5Q672 31 928 31Q1102 31 1195.5 161.5Q1289 292 1287 443Q1285 568 1207.5 684.0Q1130 800 992 800Z"/>
     <path id="g8" d="M392 750 391 265Q391 233 407 224L479 182Q502 168 549 231Q559 244 574.0 236.5Q589 229 574 211Q469 94 413 -19Q396 -42 376 -19Q320 46 271.5 80.0Q223 114 129 136Q111 141 111.0 152.0Q111 163 124 168Q191 179 190 283V706Q190 808 152 831Q108 860 80 810Q69 789 55.0 800.0Q41 811 56 835Q85 881 111.5 929.0Q138 977 166 1025Q183 1055 211 1036Q358 965 387 856Q390 846 399.0 843.5Q408 841 415 850L569 1027Q575 1033 583.0 1032.5Q591 1032 596 1024L701 823Q705 814 699 806L579 662Q572 655 563.5 656.0Q555 657 552 665L471 815Q467 821 458.5 822.5Q450 824 443 817L396 760Q392 756 392 750Z"/>
     <path id="g9" d="M534 141Q483 102 422.0 55.5Q361 9 309 -30Q291 -44 280.5 -42.0Q270 -40 272 -24Q272 -3 210 56Q47 209 53 454Q59 664 248 809Q306 853 356.5 902.0Q407 951 446 1021Q462 1052 490 1023Q642 851 794 820Q842 811 804 782Q757 748 753 698V696L756 239Q756 193 789.5 176.0Q823 159 862 202Q877 219 890.5 210.5Q904 202 891 180Q855 126 821.5 74.0Q788 22 765 -34L764 -35Q750 -58 730 -35Q719 -23 704 -19Q590 6 560 132Q558 138 550 144Q541 145 534 141ZM545 730Q483 747 400 826Q360 874 336 835Q230 677 253 486Q285 213 445 149Q446 149 447 148Q488 135 546 197Q550 203 550 208Q549 223 549 255L558 714Q558 726 545 730Z"/>
-    <clipPath id="reveal" clipPathUnits="userSpaceOnUse"><rect x="44.287" y="0" width="0" height="120">
-      <animate attributeName="width" values="0;511.427;511.427;0" keyTimes="0;0.6666667;0.8333333;1" dur="6000ms" repeatCount="indefinite"/>
-    </rect></clipPath>
   </defs>
-  <g clip-path="url(#reveal)">
   <g fill="#FFFFFF" transform="translate(42.105 88.146) scale(0.039062 -0.039062)">
-    <use href="#g0" transform="translate(0 0)"/>
-    <use href="#g1" transform="translate(1553 0)"/>
-    <use href="#g2" transform="translate(2400 0)"/>
-    <use href="#g3" transform="translate(2959 0)"/>
-    <use href="#g5" transform="translate(4118 0)"/>
-    <use href="#g6" transform="translate(5778 0)"/>
-    <use href="#g1" transform="translate(6519 0)"/>
-    <use href="#g7" transform="translate(7966 0)"/>
-    <use href="#g2" transform="translate(9543 0)"/>
-    <use href="#g1" transform="translate(10102 0)"/>
-    <use href="#g8" transform="translate(10949 0)"/>
-    <use href="#g3" transform="translate(11692 0)"/>
-    <use href="#g9" transform="translate(12251 0)"/>
-  </g>
+    <use href="#g0" transform="translate(0 0)" opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.044444;0.988889;1" dur="6000ms" repeatCount="indefinite" calcMode="discrete"/></use>
+    <use href="#g1" transform="translate(1553 0)" opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.088889;0.977778;1" dur="6000ms" repeatCount="indefinite" calcMode="discrete"/></use>
+    <use href="#g2" transform="translate(2400 0)" opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.133333;0.966667;1" dur="6000ms" repeatCount="indefinite" calcMode="discrete"/></use>
+    <use href="#g3" transform="translate(2959 0)" opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.177778;0.955556;1" dur="6000ms" repeatCount="indefinite" calcMode="discrete"/></use>
+    <use href="#g5" transform="translate(4118 0)" opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.266667;0.933333;1" dur="6000ms" repeatCount="indefinite" calcMode="discrete"/></use>
+    <use href="#g6" transform="translate(5778 0)" opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.311111;0.922222;1" dur="6000ms" repeatCount="indefinite" calcMode="discrete"/></use>
+    <use href="#g1" transform="translate(6519 0)" opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.355556;0.911111;1" dur="6000ms" repeatCount="indefinite" calcMode="discrete"/></use>
+    <use href="#g7" transform="translate(7966 0)" opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.444444;0.888889;1" dur="6000ms" repeatCount="indefinite" calcMode="discrete"/></use>
+    <use href="#g2" transform="translate(9543 0)" opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.488889;0.877778;1" dur="6000ms" repeatCount="indefinite" calcMode="discrete"/></use>
+    <use href="#g1" transform="translate(10102 0)" opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.533333;0.866667;1" dur="6000ms" repeatCount="indefinite" calcMode="discrete"/></use>
+    <use href="#g8" transform="translate(10949 0)" opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.577778;0.855556;1" dur="6000ms" repeatCount="indefinite" calcMode="discrete"/></use>
+    <use href="#g3" transform="translate(11692 0)" opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.622222;0.844444;1" dur="6000ms" repeatCount="indefinite" calcMode="discrete"/></use>
+    <use href="#g9" transform="translate(12251 0)" opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.666667;0.833333;1" dur="6000ms" repeatCount="indefinite" calcMode="discrete"/></use>
   </g>
 </svg>
