@@ -15,7 +15,7 @@
 <img src="https://img.icons8.com/ios-filled/100/FFFFFF/cross.png" width="50" alt="Cross" />
 </td>
 <td width="70%" align="center" valign="middle">
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=UnifrakturMaguntia&size=80&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=120&lines=Soli+Deo+Gloria" alt="Soli Deo Gloria" /></a>
+<a href="#"><img src="./assets/soli-deo-gloria.svg" alt="Soli Deo Gloria" /></a>
 <br />
 <img src="https://komarev.com/ghpvc/?username=NaMarrado&label=SOULS+WITNESSED&color=0d1117&style=flat&label_color=0d1117" alt="Souls Witnessed" />
 </td>
@@ -101,7 +101,7 @@
 <br />
 <br />
 <!-- Psalms 115:1-3 -->
-<img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=70&lines=Psalms+115:1-3&repeat=false" alt="Psalms 115:1-3" />
+<img src="./assets/psalms-115-1-3.svg" alt="Psalms 115:1-3" />
 <br />
 <i>Not to us, O Yahweh, not to us, But to Your name give glory Because of Your lovingkindness, because of Your truth. Why should the nations say, “Where, now, is their God?" But our God is in the heavens; He does whatever He pleases.</i>
 <br />
@@ -125,7 +125,7 @@
 <br />
 <br />
 <!-- Ecclesiastes 3:1-10 -->
-<img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=70&lines=Ecclesiastes+3:1-10&repeat=false" alt="Ecclesiastes 3:1-10" />
+<img src="./assets/ecclesiastes-3-1-10.svg" alt="Ecclesiastes 3:1-10" />
 <br />
 <i>There is an appointed time for everything. And there is a time for every matter under heaven— A time to give birth and a time to die; A time to plant and a time to uproot what is planted. A time to kill and a time to heal; A time to tear down and a time to build up. A time to weep and a time to laugh; A time to mourn and a time to dance. A time to throw stones and a time to gather stones; A time to embrace and a time to shun embracing. A time to search and a time to lose; A time to keep and a time to throw away. A time to tear apart and a time to sew together; A time to be silent and a time to speak. A time to love and a time to hate; A time for war and a time for peace. What advantage is there to the worker from that in which he labors? I have seen the endeavor which God has given the sons of men with which to occupy themselves.</i>
 </td>
@@ -163,7 +163,7 @@
 <br />
 <br />
 <!-- Proverbs 1:7 -->
-<img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=70&lines=Proverbs+1:7&repeat=false" alt="Proverbs 1:7" />
+<img src="./assets/proverbs-1-7.svg" alt="Proverbs 1:7" />
 <br />
 <i>The fear of Yahweh is the beginning of knowledge; Ignorant fools despise wisdom and discipline.</i>
 <br />
