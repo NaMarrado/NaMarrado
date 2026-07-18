@@ -34,6 +34,9 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
+<td colspan="3" align="center" valign="top">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
 <!-- FEATURED PROJECT: TON -->
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/NaMarrado/TON-Music-Player">
@@ -54,6 +57,9 @@
 <a href="https://github.com/NaMarrado/Compact-Context-Codex-Hook">
 <img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=200&height=32&lines=CCC&repeat=false" align="top" alt="CCC" />
 </a>
+</td>
+</tr>
+</table>
 </td>
 </tr>
 </tbody>
