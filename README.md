@@ -51,7 +51,7 @@
 <!-- FEATURED PROJECT: Compact Context -->
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/NaMarrado/Compact-Context-Codex-Hook">
-<img src="./assets/ccc.gif" width="100" height="100" align="top" alt="CCC" />
+<img src="./assets/ccc-34fps.gif" width="100" height="100" align="top" alt="CCC" />
 </a>
 <br />
 <a href="https://github.com/NaMarrado/Compact-Context-Codex-Hook">
