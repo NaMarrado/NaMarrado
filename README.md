@@ -35,13 +35,24 @@
 <tbody>
 <tr>
 <!-- FEATURED PROJECT: TON -->
-<td colspan="3" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 <a href="https://github.com/NaMarrado/TON-Music-Player">
 <img src="./assets/ton.png" width="100" height="100" align="top" alt="TON" />
 </a>
 <br />
 <a href="https://github.com/NaMarrado/TON-Music-Player">
 <img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=200&height=32&lines=TON&repeat=false" align="top" alt="TON" />
+</a>
+</td>
+
+<!-- FEATURED PROJECT: Compact Context -->
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/NaMarrado/Compact-Context-Codex-Hook">
+<img src="./assets/ccc.gif" width="100" height="100" align="top" alt="CCC" />
+</a>
+<br />
+<a href="https://github.com/NaMarrado/Compact-Context-Codex-Hook">
+<img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=200&height=32&lines=CCC&repeat=false" align="top" alt="CCC" />
 </a>
 </td>
 </tr>
