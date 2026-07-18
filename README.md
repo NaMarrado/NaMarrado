@@ -51,11 +51,11 @@
 <!-- FEATURED PROJECT: Compact Context -->
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/NaMarrado/Compact-Context-Codex-Hook">
-<img src="./assets/ccc-34fps.gif" width="100" height="100" align="top" alt="CCC" />
+<img src="./assets/ccc-34fps.gif" width="100" height="100" align="top" alt="CC" />
 </a>
 <br />
 <a href="https://github.com/NaMarrado/Compact-Context-Codex-Hook">
-<img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=200&height=32&lines=CCC&repeat=false" align="top" alt="CCC" />
+<img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=200&height=32&lines=CC&repeat=false" align="top" alt="CC" />
 </a>
 </td>
 </tr>
